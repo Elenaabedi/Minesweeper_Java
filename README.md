@@ -6,9 +6,11 @@ At the beginning of the game, the board is initialized with blank spaces, and a 
 The game is played by revealing cells on the board based on user input. The player continues to uncover cells until either all the blank spaces are revealed or a bomb is encountered, resulting in game over.
 
 # Netbeans Deployment
-1. Download the Project: Download the project from GitHub by clicking on the "Download" button and saving it to your computer.
-2. Extract the downloaded project files to a desired location on your computer.
-3. Open NetBeans.
-4. Open the Project: Select "File" > "Open Project" in NetBeans and navigate to the extracted project folder.
-5. Build the Project: Right-click on the project's name in the "Projects" panel and select "Build" or press F11. This will compile your Java code.
-6. Run the Project: Right-click on the project's name in the "Projects" panel and select "Run" or press Shift+F6. This will execute your Java application.
+1. **Download the Project**: Download the project from GitHub by clicking on the "Download" button and saving it to your computer.
+2. **Extract the downloaded project files** to a desired location on your computer.
+3. **Open NetBeans**.
+4. **Open the Project**: Select "File" > "Open Project" in NetBeans and navigate to the extracted project folder.
+5. **Build the Project**: Right-click on the project's name in the "Projects" panel and select "Build" or press F11. This will compile your Java code.
+6. **Run the Project**: Right-click on the project's name in the "Projects" panel and select "Run" or press Shift+F6. This will execute your Java application.
+
+![image](https://github.com/Elenaabedi/Minesweeper_Java/assets/67700744/bc18e578-9499-4765-bd9d-30a2b4c2b87f)
